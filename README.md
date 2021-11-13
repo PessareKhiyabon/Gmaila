@@ -5,7 +5,7 @@ With this simple script, you can easily check Gmail and enjoy it :)
 
 # Installing 
 
-git colone https://github.com/PessareKhiyabon/Gmaila
+git clone https://github.com/PessareKhiyabon/Gmaila
 
 cd Gmaila 
 
